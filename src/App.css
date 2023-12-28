@@ -1,0 +1,16 @@
+main {
+}
+.Log {
+  padding-left:500px;
+  padding-top:200px;
+  padding-bottom:200px;
+  justify-content:center;
+  border:10px 10px;
+  border-style:solid;
+  border-radius:30px;
+
+  border-color:black;
+  margin:20px;
+  background-color:sandybrown;
+ 
+}
